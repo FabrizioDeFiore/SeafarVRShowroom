@@ -11,9 +11,9 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <h1 align="center">Seafar-Project-ML-Agents-Simulator</h1> 
+  <h1 align="center">Seafar Virtual Reality SHowroom</h1> 
   <p align="center">
-    Python-Unity pipeline that transforms dry numerical data into engaging 3D object animations within a Unity environment    <br />
+    Augmented Reality Application to navigate and explore the Seafar facility in an immersive solution, made for an event, open to the public, in their office  <br />
     <br />
     <br />
   </p>
