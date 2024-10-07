@@ -46,10 +46,5 @@ Furthermore, the VR tour seamlessly integrates with the office environment by ut
 
 <div align="center"> <video src="https://github.com/FabrizioDeFiore/SeafarVRShowroom/assets/78561254/96a7d2fe-be1b-4a6a-a1be-30c059580394" > </div>
   
-## How to run
-
-To run this project clone, just clone the repository and clone locate it in your Unity Hub.
-Fater that only run the project with a Unity version 2021.3.26f1 or higher.
-
 
 
